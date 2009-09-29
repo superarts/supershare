@@ -6,6 +6,8 @@ $codefile = 'aGun Lite- The Real Motion Sensor Game_1.3_20090921114244.txt';
 $codename = 'aGun Lite';
 $codefile = 'iGun- The Real Motion Sensor Game_1.2_20090922021529.txt';
 $codename = 'iGun';
+$codefile = '1-on-1 Duel- Winbugs!_v1.0_20090928233227.txt';
+$codename = 'Winbugs';
 
 if ($codefile != '') $code = file($codefile);
 
@@ -89,25 +91,19 @@ $review_body = array(
 	"You’re on the right track now!",
 	"You’ve got it made. SUPER!",
 	"That’s right!",
-	"That’s good.",
-	"You are very good at that.",
+	"That’s good. You are very good at that.",
 	"That’s coming along nicely. GOOD WORK!",
 	"I’m happy to see the app like this.",
 	"Exactly right.",
 	"You’ve just about got it.",
-	"That’s the best you’ve ever done.",
 	"You’re doing a good job.",
 	"THAT’S IT!",
-	"Now you’ve figured it out.",
 	"That’s quite an improvement.",
 	"GREAT!",
-	"I knew you could do it.",
 	"Congratulations!",
 	"Not bad.",
 	"Keep working on it.",
-	"You’re improving.",
 	"Now you have it!",
-	"You are learning fast.",
 	"Good for you!",
 	"Couldn’t have done it better myself.",
 	"Aren’t you proud of yourself? One more time and you’ll have it.",
