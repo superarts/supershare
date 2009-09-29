@@ -163,6 +163,7 @@ $review_body = array(
 	"Good job, man!",
 	"That’s really nice.",
 	"I think you’re doing the right thing.",
+	"The concept of this game is very simple, but it's funny to play with friends and give 'em a beatdown! Of course I won't play it when I have plenty of time, but hey, it's an extremely good option when I have 1 or 2 minutes to kill. It takes several seconds for a single round, and after a few rounds, the train/bus comes. Helpful and funny!",
 );
 
 function echo_random($r)
