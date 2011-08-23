@@ -68,6 +68,8 @@ set mouse=a		" Enable mouse usage (all modes) in terminals
 "set paste
 set nowrap
 set wildmode=longest,list
+"set clipboard=unnamed
+syntax sync minlines=200
 
 map <Left> gT
 map <Right> gt
